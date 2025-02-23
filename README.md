@@ -1,2 +1,0 @@
-#NgocLinh_xihgai.
-
